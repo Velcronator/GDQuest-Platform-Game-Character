@@ -42,7 +42,6 @@ script = ExtResource( 7 )
 
 [node name="Hook" type="Node" parent="StateMachine"]
 script = ExtResource( 8 )
-arrive_push = 900.0
 
 [node name="Robi" type="Sprite" parent="."]
 position = Vector2( -6.11397, -67.5556 )
